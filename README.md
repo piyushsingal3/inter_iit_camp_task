@@ -1,6 +1,6 @@
 # bootcamp_task
 
-A new Flutter project.
+I have implemented three main functionalities the first one is image change ,second is fetching data from an api and displaying .3rd is displaying real time data using api
 
 ## Getting Started
 
